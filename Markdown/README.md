@@ -63,4 +63,14 @@
 
 ---
 # Image
-![alt text](https://github.com/BENCHINE11/Github-learning-journey/raw/master/src/assets/markdown.png "Markdown Logo")
+### Inline Method :
+```
+![alt text](https://github.com/BENCHINE11/Github-learning-journey/raw/main/src/assets/markdown.png "Markdown Logo")
+```
+
+![alt text](https://github.com/BENCHINE11/Github-learning-journey/raw/main/src/assets/markdown.png "Markdown Logo")
+
+### Reference Method : 
+![alt text][logo]
+
+[logo]: https://github.com/BENCHINE11/Github-learning-journey/raw/main/src/assets/markdown.png "Markdown Logo"

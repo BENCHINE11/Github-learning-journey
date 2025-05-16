@@ -74,3 +74,57 @@
 ![alt text][logo]
 
 [logo]: https://github.com/BENCHINE11/Github-learning-journey/raw/main/src/assets/markdown.png "Markdown Logo"
+
+---
+# Hide Details
+<details><summary><b>COUNTRIES</b></summary>
+
+- ARGENTINA
+- BRESIL
+- CHILE
+- DANEMARK
+- ENGLAND
+- FINLAND
+- GROELAND
+- HUNGARY
+- INDIA
+- JAMAICA
+- KAZAKHSTAN
+- LITHUANIA
+- MALTA
+- NORWAY
+- OMEN
+- PALESTINE
+- QATAR
+- RUSSIA
+- SWITZERLAND
+- TUNISIA
+- UGANDA
+- VENEZUELA
+- WEST BANK
+- YEMEN
+- ZIMBABWE
+</details>
+
+<details><summary><b>CITIES</b></summary>
+
+- AGADIR
+- BERRECHID
+- CASABLANCA
+- DAKHLA
+- EL JADIDA
+- FES
+- GUERCIF
+- HOUCEIMA
+- IMI N'TANOUT 
+- JEMAÂT SHAIM
+- KHENIFRA
+- LQLIAÂ
+- MARRAKESH
+- NADOR
+- OULAD TAIMA
+- RABAT
+- SIDI IFNI
+- TANGIER
+- ZAGOURA
+</details>
